@@ -25,7 +25,7 @@ public class FirstGitTest {
 		
 		File src = ((TakesScreenshot)wd).getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(src, new File("C:\\SeleniumWorkspace\\GitHubTest\\screenshot\\screenshot\\git.png"));
-		int i=1/0;
+		//int i=1/0;
 
 	}
 

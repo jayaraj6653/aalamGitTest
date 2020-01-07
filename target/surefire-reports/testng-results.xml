@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="FirstGitTest" duration-ms="27089" started-at="2019-10-19T06:51:21Z" finished-at="2019-10-19T06:51:48Z">
+  <suite name="FirstGitTest" duration-ms="48296" started-at="2020-01-07T12:18:57Z" finished-at="2020-01-07T12:19:46Z">
     <groups>
     </groups>
-    <test name="FirstGitTest" duration-ms="27089" started-at="2019-10-19T06:51:21Z" finished-at="2019-10-19T06:51:48Z">
+    <test name="FirstGitTest" duration-ms="48296" started-at="2020-01-07T12:18:57Z" finished-at="2020-01-07T12:19:46Z">
       <class name="GitTest.FirstGitTest">
-        <test-method status="FAIL" signature="loginTest()[pri:0, instance:GitTest.FirstGitTest@3f49dace]" name="loginTest" duration-ms="27049" started-at="2019-10-19T12:21:21Z" finished-at="2019-10-19T12:21:48Z">
+        <test-method status="FAIL" signature="loginTest()[pri:0, instance:GitTest.FirstGitTest@3f49dace]" name="loginTest" duration-ms="48254" started-at="2020-01-07T17:48:57Z" finished-at="2020-01-07T17:49:46Z">
           <exception class="java.lang.ArithmeticException">
             <message>
               <![CDATA[/ by zero]]>
