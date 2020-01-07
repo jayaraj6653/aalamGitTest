@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [FirstGitTest]">
+  <test verbose="0" name="FirstGitTest(failed)">
+    <classes>
+      <class name="GitTest.FirstGitTest">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- GitTest.FirstGitTest -->
+    </classes>
+  </test> <!-- FirstGitTest(failed) -->
+</suite> <!-- Failed suite [FirstGitTest] -->
